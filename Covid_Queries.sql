@@ -1,6 +1,6 @@
-select *
-from PortfolioProject.dbo.CovidDeaths
-order by 3,4;
+SELECT *
+FROM PortfolioProject.dbo.CovidDeaths
+ORDER BY 3,4;
 
 --select *
 --from PortfolioProject.dbo.CovidVaccinations
